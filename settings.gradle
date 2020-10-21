@@ -1,0 +1,3 @@
+include ':LintBoxPlugin'
+include ':app'
+rootProject.name = "MyLintCheckTest"
